@@ -1,0 +1,4 @@
+{
+	"interval": 60, 
+	"saveFolderPath" : "C:\Users\PC\Saved Games\metro exodus\76561199425265235" 
+}
